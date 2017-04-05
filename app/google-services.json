@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "272032212562",
+    "firebase_url": "https://pushcrimemap.firebaseio.com",
+    "project_id": "pushcrimemap",
+    "storage_bucket": "pushcrimemap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272032212562:android:faec65ac37447d91",
+        "android_client_info": {
+          "package_name": "org.jboss.aerogear.unifiedpush.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272032212562-b3b67qtnqppe98v2btrqvj7mejskj2g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASzSfTR3ozh5BxVmP0jlEjJQEtAbGEQRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272032212562:android:979dcc1f59690932",
+        "android_client_info": {
+          "package_name": "org.jboss.aerogear.android.cookbook.aerodoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272032212562-b3b67qtnqppe98v2btrqvj7mejskj2g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASzSfTR3ozh5BxVmP0jlEjJQEtAbGEQRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272032212562:android:a5b38a613b1be1c5",
+        "android_client_info": {
+          "package_name": "org.jboss.aerogear.android.cookbook.hellopush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272032212562-b3b67qtnqppe98v2btrqvj7mejskj2g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASzSfTR3ozh5BxVmP0jlEjJQEtAbGEQRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272032212562:android:1584db2eb87185b7",
+        "android_client_info": {
+          "package_name": "com.example.putra.gcmexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272032212562-b3b67qtnqppe98v2btrqvj7mejskj2g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASzSfTR3ozh5BxVmP0jlEjJQEtAbGEQRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
